@@ -13,3 +13,13 @@ You can access the file here [Excel Dashboard Project](https://github.com/Annisa
 - Chart
 - Formulas and Functions
 - Data Validation
+
+## Data Jobs Dataset
+The dataset The dataset used for this project contains real-world data science job information from 2023.
+
+# Dashboard Build
+
+## Charts
+# Data Science Salaries Bar Chart
+
+
